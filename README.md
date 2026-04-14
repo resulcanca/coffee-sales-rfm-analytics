@@ -1,4 +1,4 @@
-# ☕ Kahve Dükkanı Analitiği: Satışlar, Trendler ve RFM
+#  Kahve Dükkanı Analitiği: Satışlar, Trendler ve RFM
 
 **Yazar:** Resul
 
